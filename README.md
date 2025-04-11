@@ -43,15 +43,6 @@ With hands-on experience in both frontend development and predictive modeling, I
 - **Tech Stack:** HTML5, CSS3, JavaScript  
 - 🔗 *[Add GitHub Repository Link]*
 
----
-
-## 📈 GitHub Activity & Profile Insights
-
-![Hari Priya GitHub Stats](https://github-readme-stats.vercel.app/api?username=RapelliHariPriya&show_icons=true&theme=github_dark&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RapelliHariPriya&layout=compact&theme=github_dark)
-
----
 
 ## 🏅 Achievements & Certifications
 
