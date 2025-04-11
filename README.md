@@ -82,7 +82,7 @@ I'm actively seeking opportunities in:
 - **Software Development Roles**
 - **Open-source Collaboration**
 
-📩 Reach out to me via [Email](mailto:haripriyarapelli15@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/your-link-here)
+📩 Reach out to me via [Email](mailto:haripriyarapelli15@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/haripriya-rapelli-37032232a)
 
 ---
 
