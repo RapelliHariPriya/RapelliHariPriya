@@ -17,16 +17,15 @@ With hands-on experience in both frontend development and predictive modeling, I
 ---
 
 ## 🧠 Technical Proficiencies
+Programming Languages: Proficient in Python and SQL, with a strong foundation in web technologies including HTML5, CSS3, and JavaScript.
 
-| Domain               | Skills & Tools                                                                 |
-|----------------------|--------------------------------------------------------------------------------|
-| **Languages**        | Python, SQL, HTML5, CSS3, JavaScript                                           |
-| **AI/ML Frameworks** | TensorFlow, NumPy, pandas, scikit-learn (learning phase)                       |
-| **Tools & Platforms**| Git, GitHub, VS Code, Jupyter Notebook, MySQL Workbench                        |
-| **Concepts**         | Supervised ML, Data Preprocessing, Regression, Data Structures & Algorithms    |
-| **Soft Skills**      | Problem Solving, Critical Thinking, Teamwork, Adaptability                     |
+Artificial Intelligence & Machine Learning: Familiar with core ML concepts such as supervised learning, regression analysis, and data preprocessing. Currently enhancing expertise in libraries such as TensorFlow, NumPy, pandas, and scikit-learn.
 
----
+Development Tools & Platforms: Experienced in using Git and GitHub for version control, along with Visual Studio Code and Jupyter Notebook for efficient code development. Comfortable working with MySQL Workbench for database design and queries.
+
+Foundational Computer Science Concepts: Solid understanding of data structures, algorithms, and their practical applications in real-world problem solving.
+
+Professional & Interpersonal Skills: Demonstrated strengths in critical thinking, analytical problem-solving, adaptability to new technologies, and effective teamwork in collaborative environments
 
 ## 💼 Featured Projects
 
