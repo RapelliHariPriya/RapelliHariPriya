@@ -17,6 +17,7 @@ With hands-on experience in both frontend development and predictive modeling, I
 ---
 
 ## 🧠 Technical Proficiencies
+
 Programming Languages: Proficient in Python and SQL, with a strong foundation in web technologies including HTML5, CSS3, and JavaScript.
 
 Artificial Intelligence & Machine Learning: Familiar with core ML concepts such as supervised learning, regression analysis, and data preprocessing. Currently enhancing expertise in libraries such as TensorFlow, NumPy, pandas, and scikit-learn.
@@ -34,13 +35,12 @@ Professional & Interpersonal Skills: Demonstrated strengths in critical thinking
 - Performed data cleaning, feature engineering, and exploratory data analysis.
 - Achieved ~60% model accuracy and gained insight into customer purchase behavior.
 - **Tech Stack:** Python, pandas, scikit-learn, Jupyter Notebook  
-- 🔗 *[Add GitHub Repository Link]*
+
 
 ### 🔢 Sorting Visualizer [Frontend + Algorithms]
 - Designed a dynamic visualization tool for sorting algorithms including Bubble Sort, Merge Sort, and Quick Sort.
 - Provided real-time animation to help understand time complexities and logic flow.
 - **Tech Stack:** HTML5, CSS3, JavaScript  
-- 🔗 *[Add GitHub Repository Link]*
 
 
 ## 🏅 Achievements & Certifications
